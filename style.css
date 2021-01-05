@@ -1,0 +1,94 @@
+/* navbar styling*/
+a.navbar-brand{
+    margin-left: 10px;
+    padding: 10px;
+    background-color: #20B2AA;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+
+.navbar{
+    padding-top:0px;
+    padding-bottom: 0px;
+    padding-right:50px;
+}
+
+
+/* header styling*/
+h3{
+    color: #20B2AA;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px;
+}
+
+/* body background*/
+body{
+    background-color:#DCDCDC;
+}
+.col-md-12{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom:75px;
+}
+
+
+/* fontstyling for text*/
+p{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 17px;
+   padding:20px;
+}
+
+
+/* content styling*/
+.content {
+    padding-top: 50px;
+    padding-bottom: 200px;
+    overflow: hidden;
+}
+
+.content.background-white{
+    margin-top: 15px;
+    background-color: white;
+}
+
+/*footer styling*/
+.page-footer{
+    background-color: GRAY;
+    margin-top: 50px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-copyright{
+    color:white;
+}
+
+
+/* small screen adjustments*/
+@media only screen and (max-width: 768px) {
+    .navbar.bg-light{
+        background-color:#20B2AA;    
+    }
+
+    .navbar-collapse{
+        background-color: #DCDCDC;
+    }
+    .navbar{
+        padding:inherit;
+    }
+    
+    p{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        padding:10px;
+     }
+    
+    h3{
+        color: #20B2AA;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 20px;
+        padding: 15px;
+    }
+}
