@@ -107,27 +107,27 @@ The below folders have the following files:
 
 | Folder Name    | File Name |
 | ------------- | ------------- |
-| Unit 11 - Web Design Challenge  | [README.md](https://github.com/cecileung1208/Homework/blob/master/Unit%2011%20-%20Web%20Design%20Challenge/README.md)|
-|                                  | [index.html](https://github.com/cecileung1208/Homework/blob/master/Unit%2011%20-%20Web%20Design%20Challenge/index.html)|
-|                                  | [max_temp.html](https://github.com/cecileung1208/Homework/blob/master/Unit%2011%20-%20Web%20Design%20Challenge/max_temp.html)|
-|                                  | [humidity.html](https://github.com/cecileung1208/Homework/blob/master/Unit%2011%20-%20Web%20Design%20Challenge/humidity.html)|
-|                                  | [cloudiness.html](https://github.com/cecileung1208/Homework/blob/master/Unit%2011%20-%20Web%20Design%20Challenge/cloudiness.html)|
-|                                  | [wind_speed.html](https://github.com/cecileung1208/Homework/blob/master/Unit%2011%20-%20Web%20Design%20Challenge/wind_speed.html)|
-|                                  | [comparisons.html](https://github.com/cecileung1208/Homework/blob/master/Unit%2011%20-%20Web%20Design%20Challenge/comparisons.html)|
-|                                  | [data.html](https://github.com/cecileung1208/Homework/blob/master/Unit%2011%20-%20Web%20Design%20Challenge/data.html)|
-|                                  | [style.css](https://github.com/cecileung1208/Homework/blob/master/Unit%2011%20-%20Web%20Design%20Challenge/style.css)|
+| Unit 11 - Web Design Challenge  | [README.md](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/README.md)|
+|                                  | [index.html](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/index.html)|
+|                                  | [max_temp.html](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/max_temp.html)|
+|                                  | [humidity.html](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/humidity.html)|
+|                                  | [cloudiness.html](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/cloudiness.html)|
+|                                  | [wind_speed.html](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/wind_speed.html)|
+|                                  | [comparisons.html](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/comparisons.html)|
+|                                  | [data.html](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/data.html)|
+|                                  | [style.css](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/style.css)|
 
 
 Inside the Web Challenge Folder, there are the Assets, Resources, and Visualization folders that store the following files:
 
 | Folder Name    | File Name |
 | ------------- | ------------- |
-| Assets        | [Latitude_MaxTemp.png](https://github.com/cecileung1208/Homework/blob/master/Unit%2011%20-%20Web%20Design%20Challenge/Assets/Latitude_MaxTemp.png)|
-|               | [Latitude_Humidity.png](https://github.com/cecileung1208/Homework/blob/master/Unit%2011%20-%20Web%20Design%20Challenge/Assets/Latitude_Humidity.png)|
-|               | [Latitude_Cloudiness.png](https://github.com/cecileung1208/Homework/blob/master/Unit%2011%20-%20Web%20Design%20Challenge/Assets/Latitude_Cloudiness.png)|
-|               | [Latitude_WindSpeed.png](https://github.com/cecileung1208/Homework/blob/master/Unit%2011%20-%20Web%20Design%20Challenge/Assets/Latitude_WindSpeed.png)|
-| Resources   | [Cities Table HTML Coversion](https://github.com/cecileung1208/Homework/blob/master/Unit%2011%20-%20Web%20Design%20Challenge/Resources/Cities%20Table%20HTML%20Coversion.ipynb)|
-|             | [cities.csv](https://github.com/cecileung1208/Homework/blob/master/Unit%2011%20-%20Web%20Design%20Challenge/Resources/cities.csv)|
+| Assets        | [Latitude_MaxTemp.png](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Assets/Latitude_MaxTemp.png)|
+|               | [Latitude_Humidity.png](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Assets/Latitude_Humidity.png)|
+|               | [Latitude_Cloudiness.png](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Assets/Latitude_Cloudiness.png)|
+|               | [Latitude_WindSpeed.png](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Assets/Latitude_WindSpeed.png)|
+| Resources   | [Cities Table HTML Coversion](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Resources/Cities%20Table%20HTML%20Coversion.ipynb)|
+|             | [cities.csv](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Resources/cities.csv)|
 | Visualizations   | [Dashboard- Big Screen.png](https://github.com/cecileung1208/Homework/blob/master/Unit%2011%20-%20Web%20Design%20Challenge/Visualizations/Dashboard%20-%20Big%20Screen.png)|
 |                 | [Dashboard- Small Screen.png](https://github.com/cecileung1208/Homework/blob/master/Unit%2011%20-%20Web%20Design%20Challenge/Visualizations/Dashboard%20-%20Small%20Screen.png)|
 |                 | [Visualization- Big Screen.png](https://github.com/cecileung1208/Homework/blob/master/Unit%2011%20-%20Web%20Design%20Challenge/Visualizations/Visualization%20-%20Big%20Screen.png)|
