@@ -69,7 +69,8 @@ The website must consist the following html and style pages:
   *  Use the bootstrap table component to create the table from the HTML table.
 
 #### CSS Style Page
-
+* Create formats for fonts, font sizes, background colours, navigation bars, footers, column sizes, conatiners, and image padding for the webpages.
+* Ensure all teh images are aligned when resizing the browser.
 
 ## Data Visualizations/Scripts 
 
