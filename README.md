@@ -1,6 +1,13 @@
 # Weather Visualization Dashboard
 
+![Image](https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/ca_0724NID_Earth_online.jpg?itok=glL-Bgbs)
+
 ## Background
+
+Visualization dashboard website will be created  with plotting [weather data](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Resources/cities.csv).<br>
+
+In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
+
 
 ## Requirements
 
@@ -17,9 +24,6 @@ Data is more powerful when we share it with others! Let's take what we've learne
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
-Visualization dashboard website will be created  with plotting [weather data](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Resources/cities.csv).<br>
-
-In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
 ### Website Requirements
 For reference, see the [Screenshots](#screenshots) section below.
