@@ -75,7 +75,19 @@ The website must consist the following html and style pages:
 ## Data Visualizations/Scripts 
 
 #### Landing Page
+
+[Landing Page Script](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/index.html)
+![Image](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Visualizations/Dashboard%20-%20Big%20Screen.png)
+
 #### Visualization Page Page
+
+[Maximum Temperature Script](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/max_temp.html)<br>
+[Humidity Script](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/humidity.html)
+[Cloudiness](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/cloudiness.html)
+[Windspeed](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/wind_speed.html)
+
+![Image](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Visualizations/Visualization%20-%20Big%20Screen.png)
+
 
 ## Results
 
