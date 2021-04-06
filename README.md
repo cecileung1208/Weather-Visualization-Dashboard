@@ -103,42 +103,16 @@ The website must consist the following html and style pages:
 
 **1. Latitude vs Maximum Temperature**
 
-Cities near the equator experience the highest maximum temperature. As the latitude increases , the temperature drops significantly. In general, the Southern Hemisphere have higher temperature than the Northern Hemisphere
-
-<p float="left">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_MaxTemp.png" width="250">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_MaxTemp.png" width="250"> 
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_MaxTemp.png" width="250">
-</p>
+Cities near the equator experience the highest maximum temperature. As the latitude increases , the temperature drops significantly. 
 
 **2. Latitude vs Humidity**
 
 The correlation is almost zero but one noticeable trend is that almost 80% of the cities have a humidity of greater than 60%
 
-<p float="left">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_Humidity.png" width="250">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_Humidity.png" width="250"> 
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_Humidity.png" width="250">
-</p>
-
-
 **3. Latitude vs Cloudiness**
 
 The correlation is weak but the graphs do show that the majority of the cities have either 0% or 80-100% cloudiness.
 
-<p float="left">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_Cloudiness.png" width="250">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_Cloudiness.png" width="250"> 
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_Cloudiness.png" width="250">
-</p>
-
-
 **4. Latitude vs Wind Speed**
 
 There is no strong relationship between latitude and wind speed as the correlation is only 0.15. However, as the latitude around 60-90 degress, there are numerous cities with wind speed of more than 20 mph.
-
-<p float="left">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_WindSpeed.png" width="250">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_Windspeed.png" width="250"> 
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_Windspeed.png" width="250">
-</p>
