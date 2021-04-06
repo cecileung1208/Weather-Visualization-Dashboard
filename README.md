@@ -45,7 +45,7 @@ The website must consist the following html and style pages:
 
 ### Visualization Page
 
-*  Create a container that displays the images in a 2 by 2 view using bootstrap.
+*  Create a container that displays the images in a 2 by 2 view using bootstrap grid.
 *  The scatterplots include:
     * Latitude vs. Maximum Temperature
     * Latitude vs. Humidity
@@ -55,6 +55,13 @@ The website must consist the following html and style pages:
    * A descriptive title and heading tag.
    * The plot/visualization itself for the selected comparison.
    * A paragraph describing the plot and its significance.
+
+### Comparison Page
+
+* Contains all of the visualizations on the same page so we can easily visually compare them.
+  * Uses a Bootstrap grid for the visualizations.
+  * The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
+
 
 ## Data Visualizations/Scripts 
 
