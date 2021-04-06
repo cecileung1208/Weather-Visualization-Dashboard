@@ -62,13 +62,13 @@ The website must consist the following html and style pages:
   * Uses a Bootstrap grid for the visualizations.
   * The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
 
-#### Data Page
+**[Data Page](#data-page)**
 
 * Displays a responsive table containing the data used in the visualizations.
   * Using pandas, export the [Cities Climate Dataset](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Resources/cities.csv) by using the to_html function to covert the pandas DataFrame to an HTML table.
   *  Use the bootstrap table component to create the table from the HTML table.
 
-#### CSS Style Page
+**[CSS Style Page](#css-style-page)**
 * Create formats for fonts, font sizes, background colours, navigation bars, footers, column sizes, conatiners, and image padding for the webpages.
 * Ensure all teh images are aligned when resizing the browser.
 
@@ -90,6 +90,17 @@ The website must consist the following html and style pages:
 #### [Comparison Page](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/comparisons.html)
 
 ![Image](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Visualizations/Comparison-%20Big%20Screen.png)
+
+#### [Data Page](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/data.html)
+
+[HTML Table Coversion](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Resources/Cities%20Table%20HTML%20Coversion.ipynb)
+
+![Image](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Visualizations/Data%20-%20Big%20Screen.png)
+
+#### [CSS Style Page](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/style.css)
+
+
+
 
 ## Results
 
