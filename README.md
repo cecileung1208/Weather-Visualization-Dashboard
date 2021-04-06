@@ -93,92 +93,52 @@ The website must consist the following html and style pages:
 
 #### [Data Page](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/data.html)
 
-[HTML Table Coversion](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Resources/Cities%20Table%20HTML%20Coversion.ipynb)
+* [HTML Table Coversion](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Resources/Cities%20Table%20HTML%20Coversion.ipynb)
 
 ![Image](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Visualizations/Data%20-%20Big%20Screen.png)
 
 #### [CSS Style Page](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/style.css)
 
-
-
-
 ## Results
 
+**1. Latitude vs Maximum Temperature**
 
-**2. Four [Visualization pages](#visualizations-page), each with:**
+Cities near the equator experience the highest maximum temperature. As the latitude increases , the temperature drops significantly. In general, the Southern Hemisphere have higher temperature than the Northern Hemisphere
 
-  - See the [max_temp.html file](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/max_temp.html), [humidity.html file](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/humidity.html), [cloudiness.html file](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/cloudiness.html), and [wind_speed.html file](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/wind_speed.html) for the html codes.
+<p float="left">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_MaxTemp.png" width="250">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_MaxTemp.png" width="250"> 
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_MaxTemp.png" width="250">
+</p>
 
+**2. Latitude vs Humidity**
 
-**3. A [Comparisons page](#comparisons-page) that:**
+The correlation is almost zero but one noticeable trend is that almost 80% of the cities have a humidity of greater than 60%
 
-  - Contains all of the visualizations on the same page so we can easily visually compare them.
-  - Uses a Bootstrap grid for the visualizations.
-  - The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
-  - See the [comparisons.html file](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/comparisons.html) for the html codes.
-
-
-**4. A [Data page](#data-page) that:**
-
-  - Displays a responsive table containing the data used in the visualizations.
-  - The table must be a bootstrap table component. 
-  - The data must come from exporting the [.csv file](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Resources/cities.csv) as HTML, or converting it to HTML. Try using a tool you already know, pandas. Pandas has a nifty method approprately called [to_html](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Resources/Cities%20Table%20HTML%20Coversion.ipynb) that allows you to generate a HTML table from a pandas dataframe.
-  - See the [data.html file](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/data.html)
- 
-**5. Style Sheet**
-
-  - This is to store default settings for the html files.  
-  - Settings include fonts, padding, background colour, formats for resizing the browser etc for the header and paragraph text, navigation bar, containers, column sizes, footer.
-  - Details are in the [style.css file](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/style.css)
-### Screenshots
-
-#### Landing Page
-
-Large Screen
-
-![Image](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Visualizations/Dashboard%20-%20Big%20Screen.png)
-
-Small Screen
-
-![Image](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Visualizations/Dashboard%20-%20Small%20Screen.png)
+<p float="left">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_Humidity.png" width="250">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_Humidity.png" width="250"> 
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_Humidity.png" width="250">
+</p>
 
 
-#### Visualizations Page
+**3. Latitude vs Cloudiness**
 
-Large Screen 
+The correlation is weak but the graphs do show that the majority of the cities have either 0% or 80-100% cloudiness.
 
-![Image](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Visualizations/Visualization%20-%20Big%20Screen.png)
+<p float="left">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_Cloudiness.png" width="250">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_Cloudiness.png" width="250"> 
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_Cloudiness.png" width="250">
+</p>
 
-Small Screen 
 
-![Image](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Visualizations/Visualization%20-%20Small%20Screen.png)
+**4. Latitude vs Wind Speed**
 
-#### Comparisons Page
+There is no strong relationship between latitude and wind speed as the correlation is only 0.15. However, as the latitude around 60-90 degress, there are numerous cities with wind speed of more than 20 mph.
 
-Large Screen
-
-![Image](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Visualizations/Comparison-%20Big%20Screen.png)
-
-Small Screen
-
-![Image](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Visualizations/Comparison-%20Small%20Screen.png)
-
-#### Data Page
-
-Large Screen
-
-![Image](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Visualizations/Data%20-%20Big%20Screen.png)
-
-Small Screen
-
-![Image](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Visualizations/Data%20-%20Small%20Screen.png)
-
-#### Navigation Bar
-
-Large Screen 
-
-![Image](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Visualizations/Navigation%20Bar%20-%20Big%20Screen.png)
-
-Small Screen
-
-![Image](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Visualizations/Navigation%20Bar%20-%20Small%20Screen.png)
+<p float="left">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_WindSpeed.png" width="250">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_Windspeed.png" width="250"> 
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_Windspeed.png" width="250">
+</p>
