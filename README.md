@@ -34,16 +34,17 @@ The website must consist the following html and style pages:
 
 ## Method
 
-* Create a [Landing Page](#landing-page) that contains a total of 2 container using bootstrap that provides:
+**[Landing Page](#landing-page)**
+
+* Create 2 containers using bootstrap that provides:
    *  An explanation on the project
    *  A visualization page (see below) that provides an image of each scatterplot and clicking the image will prompt the user to that visualization.
 * Create a navigation bar for the following:
    * Links to each plot
    * Links to the comparison page
    * Links to the data
-
-#### Visualization Page
-
+   
+**[Visualization Page](#visualization-page)**
 *  Create a container that displays the images in a 2 by 2 view using bootstrap grid.
 *  The scatterplots include:
     * Latitude vs. Maximum Temperature
@@ -74,6 +75,7 @@ The website must consist the following html and style pages:
 ## Data Visualizations/Scripts 
 
 #### Landing Page
+#### Visualization Page Page
 
 ## Results
 
