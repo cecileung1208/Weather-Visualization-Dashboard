@@ -86,10 +86,10 @@ The website must consist the following html and style pages:
 * [Windspeed](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/wind_speed.html)
 
 <p float="left">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_MaxTemp.png" width="250">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_MaxTemp.png" width="250"> 
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_MaxTemp.png" width="250">
-  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_MaxTemp.png" width="250">
+  <img src="https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Visualizations/Max%20Temp.png" width="250">
+  <img src="https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Visualizations/Humidity.png" width="250"> 
+  <img src="https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Visualizations/Cloudiness.png" width="250">
+  <img src="https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Visualizations/Wind%20Speed.png" width="250">
 </p>
 
 
