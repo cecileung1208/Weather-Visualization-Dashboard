@@ -8,48 +8,36 @@ Visualization dashboard website will be created  with plotting [weather data](ht
 
 In building this dashboard, individual pages for each plot will be created and the user can navigate between them. These pages will contain the visualizations and their corresponding explanations. There will also have a landing page, a page where the user can see a comparison of all of the plots, and another page that provides the data source.
 
-To accomplish this, HTML, CSS and Pandas will be used.
+To accomplish this, HTML, Bootstrap, CSS and Pandas will be used to create the weather visualization dashboard.
 
 ## Requirements
 
 The website must consist the following html and style pages:
 
-* **[Landing page](#landing-page)** 
-  - An explanation of the project.
-  - Links to each visualizations page. There should be a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
+* **[Landing Homepage](#landing-page)** that contains a background information on the project, navigation bars to plots, comparison and the original dataset, and a visualization section that links you to the information about the image.
 
-* **[Visualization pages](#visualizations-page)**
-  - 4 visualizations:
+* **[Visualization pages](#visualizations-page)** that contains the below 4 scatterplot images and by clicking on them it will describe the weather anlaysis of each plot.
     * Latitude vs. Maximum Temperature
     * Latitude vs. Humidity
     * Latitude vs. Cloudiness
     * Latitude vs. Wind Speed
-  - A descriptive title and heading tag.
-  - The plot/visualization itself for the selected comparison.
-  - A paragraph describing the plot and its significance.
   
+* **[Comparisons page](#comparisons-page)** that contains all the scatterplot visualizations on one page.
 
-* **[Comparisons page](#comparisons-page)**
+* **[Data page](#data-page)** that contains a table of the original dataset.
 
-  - Contains all of the visualizations on the same page so we can easily visually compare them.
-  - Uses a Bootstrap grid for the visualizations.
-  - The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
+* **CSS Style Sheet** that stores the default styles and settings for the html files.
 
-* **[Data page](#data-page)**
-
-  - Displays a responsive table containing the data used in the visualizations.
-  - The table must be a bootstrap table component. 
-  - The data must come from exporting the [.csv file](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Resources/cities.csv) as HTML, or converting it to HTML. Try using a tool you already know, pandas. Pandas has a nifty method approprately called [to_html](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Resources/Cities%20Table%20HTML%20Coversion.ipynb) that allows you to generate a HTML table from a pandas dataframe.
- 
-* **Style Sheet**
-
-  - This is to store default settings for the html files.  
-  - Settings include fonts, padding, background colour, formats for resizing the browser etc for the header and paragraph text, navigation bar, containers, column sizes, footer.
-
-  
 ## Datasets
 
+[Cities Climate Dataset](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Resources/cities.csv)
+
 ## Method
+
+### Landing Page
+
+  - Provide an explanation of the project on 
+  - Links to each visualizations page. There should be a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
 
 ## Scripts 
 
@@ -61,8 +49,6 @@ The website must consist of 7 html pages and 1 style page in total, including:
 
 **1. A [Landing page](#landing-page) containing:**
 
-  - An explanation of the project.
-  - Links to each visualizations page. There should be a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
   - See the [index.html file](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/index.html) for the html codes.
 
 **2. Four [Visualization pages](#visualizations-page), each with:**
