@@ -74,8 +74,24 @@ The website must consist the following html and style pages:
 
 ## Data Visualizations/Scripts 
 
-#### Landing Page
+#### [Landing Page](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/index.html)
+
+![Image](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Visualizations/Dashboard%20-%20Big%20Screen.png)
+
 #### Visualization Page Page
+
+* [Maximum Temperature Script](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/max_temp.html)
+* [Humidity Script](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/humidity.html)
+* [Cloudiness](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/cloudiness.html)
+* [Windspeed](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/wind_speed.html)
+
+<p float="left">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_MaxTemp.png" width="250">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_MaxTemp.png" width="250"> 
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_MaxTemp.png" width="250">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_MaxTemp.png" width="250">
+</p>
+
 
 ## Results
 
