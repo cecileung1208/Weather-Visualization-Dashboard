@@ -10,6 +10,41 @@ In building this dashboard, individual pages for each plot will be created and t
 
 ## Requirements
 
+The website must consist the following html and style pages:
+
+* **[Landing page](#landing-page)** 
+  - An explanation of the project.
+  - Links to each visualizations page. There should be a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
+
+* **[Visualization pages](#visualizations-page)**
+  - 4 visualizations:
+    * Latitude vs. Maximum Temperature
+    * Latitude vs. Humidity
+    * Latitude vs. Cloudiness
+    * Latitude vs. Wind Speed
+  - A descriptive title and heading tag.
+  - The plot/visualization itself for the selected comparison.
+  - A paragraph describing the plot and its significance.
+  
+
+* **[Comparisons page](#comparisons-page)**
+
+  - Contains all of the visualizations on the same page so we can easily visually compare them.
+  - Uses a Bootstrap grid for the visualizations.
+  - The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
+
+* **[Data page](#data-page)**
+
+  - Displays a responsive table containing the data used in the visualizations.
+  - The table must be a bootstrap table component. 
+  - The data must come from exporting the [.csv file](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Resources/cities.csv) as HTML, or converting it to HTML. Try using a tool you already know, pandas. Pandas has a nifty method approprately called [to_html](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Resources/Cities%20Table%20HTML%20Coversion.ipynb) that allows you to generate a HTML table from a pandas dataframe.
+ 
+**5. Style Sheet**
+
+  - This is to store default settings for the html files.  
+  - Settings include fonts, padding, background colour, formats for resizing the browser etc for the header and paragraph text, navigation bar, containers, column sizes, footer.
+  - Details are in the [style.css file](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/style.css)
+  
 ## Datasets
 
 ## Method
@@ -18,14 +53,7 @@ In building this dashboard, individual pages for each plot will be created and t
 
 ## Results
 
-Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
-
-## Latitude - Latitude Analysis Dashboard with Attitude
-
-
-### Website Requirements
-For reference, see the [Screenshots](#screenshots) section below.
 
 The website must consist of 7 html pages and 1 style page in total, including:
 
