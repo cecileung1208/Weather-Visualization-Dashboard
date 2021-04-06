@@ -56,7 +56,7 @@ The website must consist the following html and style pages:
    * The plot/visualization itself for the selected comparison.
    * A paragraph describing the plot and its significance.
 
-#### Comparison Page
+**[Comparison Page](#comparison-page)**
 
 * Contains all of the visualizations on the same page so we can easily visually compare them.
   * Uses a Bootstrap grid for the visualizations.
@@ -78,20 +78,18 @@ The website must consist the following html and style pages:
 
 ![Image](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Visualizations/Dashboard%20-%20Big%20Screen.png)
 
-#### Visualization Page Page
+#### Visualization Page
 
 * [Maximum Temperature Script](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/max_temp.html)
 * [Humidity Script](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/humidity.html)
 * [Cloudiness](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/cloudiness.html)
 * [Windspeed](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/wind_speed.html)
 
-<p float="left">
-  <img src="https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Visualizations/Max%20Temp.png" width="250">
-  <img src="https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Visualizations/Humidity.png" width="250"> 
-  <img src="https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Visualizations/Cloudiness.png" width="250">
-  <img src="https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Visualizations/Wind%20Speed.png" width="250">
-</p>
+![Image](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Visualizations/Visualization%20-%20Big%20Screen.png)
 
+#### [Comparison Page](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/comparisons.html)
+
+![Image](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Visualizations/Comparison-%20Big%20Screen.png)
 
 ## Results
 
