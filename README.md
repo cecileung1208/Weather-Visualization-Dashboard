@@ -8,6 +8,8 @@ Visualization dashboard website will be created  with plotting [weather data](ht
 
 In building this dashboard, individual pages for each plot will be created and the user can navigate between them. These pages will contain the visualizations and their corresponding explanations. There will also have a landing page, a page where the user can see a comparison of all of the plots, and another page that provides the data source.
 
+To accomplish this, HTML, CSS and Pandas will be used.
+
 ## Requirements
 
 The website must consist the following html and style pages:
@@ -39,11 +41,11 @@ The website must consist the following html and style pages:
   - The table must be a bootstrap table component. 
   - The data must come from exporting the [.csv file](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Resources/cities.csv) as HTML, or converting it to HTML. Try using a tool you already know, pandas. Pandas has a nifty method approprately called [to_html](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Resources/Cities%20Table%20HTML%20Coversion.ipynb) that allows you to generate a HTML table from a pandas dataframe.
  
-**5. Style Sheet**
+* **Style Sheet**
 
   - This is to store default settings for the html files.  
   - Settings include fonts, padding, background colour, formats for resizing the browser etc for the header and paragraph text, navigation bar, containers, column sizes, footer.
-  - Details are in the [style.css file](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/style.css)
+
   
 ## Datasets
 
