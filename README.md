@@ -34,7 +34,7 @@ The website must consist the following html and style pages:
 
 ## Method
 
-### Landing Page
+#### Landing Page
 * Create a landing page that contains a total of 2 container using bootstrap that provides:
    *  An explanation on the project
    *  A visualization page (see below) that provides an image of each scatterplot and clicking the image will prompt the user to that visualization.
@@ -43,7 +43,7 @@ The website must consist the following html and style pages:
    * Links to the comparison page
    * Links to the data
 
-### Visualization Page
+#### Visualization Page
 
 *  Create a container that displays the images in a 2 by 2 view using bootstrap grid.
 *  The scatterplots include:
@@ -56,11 +56,19 @@ The website must consist the following html and style pages:
    * The plot/visualization itself for the selected comparison.
    * A paragraph describing the plot and its significance.
 
-### Comparison Page
+#### Comparison Page
 
 * Contains all of the visualizations on the same page so we can easily visually compare them.
   * Uses a Bootstrap grid for the visualizations.
   * The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
+
+#### Data Page
+
+* Displays a responsive table containing the data used in the visualizations.
+  * Using pandas, export the [Cities Climate Dataset](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/Resources/cities.csv) by using the to_html function to covert the pandas DataFrame to an HTML table.
+  *  Use the bootstrap table component to create the table from the HTML table.
+
+#### CSS Style Page
 
 
 ## Data Visualizations/Scripts 
