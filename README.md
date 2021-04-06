@@ -14,17 +14,17 @@ To accomplish this, HTML, Bootstrap, CSS and Pandas will be used to create the w
 
 The website must consist the following html and style pages:
 
-* **[Landing Homepage]** that contains a background information on the project, navigation bars to plots, comparison and the original dataset, and a visualization section that links you to the information about the image.
+* **Landing Homepage** that contains a background information on the project, navigation bars to plots, comparison and the original dataset, and a visualization section that links you to the information about the image.
 
-* **[Visualization pages]** that contains the below 4 scatterplot images and by clicking on them it will describe the weather anlaysis of each plot.
+* **Visualization pages** that contains the below 4 scatterplot images and by clicking on them it will describe the weather anlaysis of each plot.
     * Latitude vs. Maximum Temperature
     * Latitude vs. Humidity
     * Latitude vs. Cloudiness
     * Latitude vs. Wind Speed
   
-* **[Comparisons page]** that contains all the scatterplot visualizations on one page.
+* **Comparisons page** that contains all the scatterplot visualizations on one page.
 
-* **[Data page]** that contains a table of the original dataset.
+* **Data page** that contains a table of the original dataset.
 
 * **CSS Style Sheet** that stores the default styles and settings for the html files.
 
@@ -34,7 +34,7 @@ The website must consist the following html and style pages:
 
 ## Method
 
-#### Landing Page(#Landing-Page)
+#### [Landing Page](#landing-page)
 * Create a landing page that contains a total of 2 container using bootstrap that provides:
    *  An explanation on the project
    *  A visualization page (see below) that provides an image of each scatterplot and clicking the image will prompt the user to that visualization.
