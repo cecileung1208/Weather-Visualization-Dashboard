@@ -35,27 +35,34 @@ The website must consist the following html and style pages:
 ## Method
 
 ### Landing Page
+* Create a landing page that contains a total of 2 container using bootstrap that provides:
+   *  An explanation on the project
+   *  A visualization page (see below) that provides an image of each scatterplot and clicking the image will prompt the user to that visualization.
+* Create a navigation bar for the following:
+   * Links to each plot
+   * Links to the comparison page
+   * Links to the data
 
-  - Provide an explanation of the project on 
-  - Links to each visualizations page. There should be a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
+### Visualization Page
 
-## Scripts 
+*  Create a container that displays the images in a 2 by 2 view using bootstrap.
+*  The scatterplots include:
+    * Latitude vs. Maximum Temperature
+    * Latitude vs. Humidity
+    * Latitude vs. Cloudiness
+    * Latitude vs. Wind Speed   
+* For each scatterplot, include:
+   * A descriptive title and heading tag.
+   * The plot/visualization itself for the selected comparison.
+   * A paragraph describing the plot and its significance.
+
+## Data Visualizations/Scripts 
 
 ## Results
 
 
-
-The website must consist of 7 html pages and 1 style page in total, including:
-
-**1. A [Landing page](#landing-page) containing:**
-
-  - See the [index.html file](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/index.html) for the html codes.
-
 **2. Four [Visualization pages](#visualizations-page), each with:**
 
-  - A descriptive title and heading tag.
-  - The plot/visualization itself for the selected comparison.
-  - A paragraph describing the plot and its significance.
   - See the [max_temp.html file](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/max_temp.html), [humidity.html file](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/humidity.html), [cloudiness.html file](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/cloudiness.html), and [wind_speed.html file](https://github.com/cecileung1208/Web-Design-Web-Visualization-Dashboard/blob/master/wind_speed.html) for the html codes.
 
 
