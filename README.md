@@ -82,11 +82,16 @@ The website must consist the following html and style pages:
 #### Visualization Page Page
 
 [Maximum Temperature Script](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/max_temp.html)<br>
-[Humidity Script](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/humidity.html)
-[Cloudiness](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/cloudiness.html)
+[Humidity Script](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/humidity.html)<br>
+[Cloudiness](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/cloudiness.html)<br>
 [Windspeed](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/wind_speed.html)
 
-![Image](https://github.com/cecileung1208/Weather-Visualization-Dashboard/blob/master/Visualizations/Visualization%20-%20Big%20Screen.png)
+<p float="left">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Latitude_MaxTemp.png" width="250">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Northern_Hemisphere_MaxTemp.png" width="250"> 
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_MaxTemp.png" width="250">
+  <img src="https://github.com/cecileung1208/Global-Weather-Analysis/blob/master/Output%20Files/Southern_Hemisphere_MaxTemp.png" width="250">
+</p>
 
 
 ## Results
