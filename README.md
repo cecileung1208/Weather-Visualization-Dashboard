@@ -1,4 +1,16 @@
-# Web Design Challenge - Web Visualization Dashboard (Latitude) 
+# Weather Visualization Dashboard
+
+## Background
+
+## Requirements
+
+## Datasets
+
+## Method
+
+## Scripts 
+
+## Results
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
