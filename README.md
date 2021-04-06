@@ -34,8 +34,7 @@ The website must consist the following html and style pages:
 
 ## Method
 
-#### [Landing Page](#landing-page)
-* Create a landing page that contains a total of 2 container using bootstrap that provides:
+* Create a [Landing Page](#landing-page) that contains a total of 2 container using bootstrap that provides:
    *  An explanation on the project
    *  A visualization page (see below) that provides an image of each scatterplot and clicking the image will prompt the user to that visualization.
 * Create a navigation bar for the following:
